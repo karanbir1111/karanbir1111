@@ -6,9 +6,9 @@ I am an Azure Certified Administrator (AZ-104) and Infrastructure Engineer focus
 ---
 
 ### 🚀 What I Do
-*   **Cloud Infrastructure:** Architecting and securing environments across AWS (EKS, EC2, VPC, IAM) and Azure (VNets, Hub-and-Spoke topologies, Governance).
+*   **Cloud Infrastructure:** Architecting and securing environments across AWS (EKS, EC2, VPC, IAM) and Azure (EntraID, VNets, Hub-and-Spoke topologies, RBAC, Virtual Machines, Cost Management, Governance).
 *   **GitOps & CI/CD:** Eliminating manual deployment steps by engineering automated pipelines using GitHub Actions and ArgoCD.
-*   **Container Orchestration:** Deploying, scaling, and troubleshooting workloads on AWS EKS and building skills in OpenShift/ROSA platform operations.
+*   **Container Orchestration:** Deploying, scaling, and troubleshooting workloads using Kubernetes.
 
 ---
 
